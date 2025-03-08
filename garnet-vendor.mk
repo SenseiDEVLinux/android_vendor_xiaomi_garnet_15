@@ -979,7 +979,6 @@ PRODUCT_PACKAGES += \
     libswgamedap \
     libswvqe \
     vendor.dolby.hardware.dms@2.0 \
-    vendor.qti.hardware.AGMIPC@1.0-impl \
     vendor.qti.qspmhal@1.0 \
     android.hardware.secure_element@1.0-impl \
     btaudio_offload_if \
