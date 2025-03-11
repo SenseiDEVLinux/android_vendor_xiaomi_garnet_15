@@ -948,7 +948,6 @@ PRODUCT_PACKAGES += \
     libadreno_app_profiles \
     libadreno_utils \
     libagm \
-    libar-acdb \
     libar-gpr \
     libar-gsl \
     libats \
