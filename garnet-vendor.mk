@@ -1398,6 +1398,7 @@ PRODUCT_PACKAGES += \
     libgarden_haltests_e2e \
     libgdtap \
     libgeofencing \
+    libar-acdb \
     libgnss \
     libgnsspps \
     libgps.utils \
